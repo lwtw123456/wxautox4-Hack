@@ -31,7 +31,7 @@ pip install wxautox4
 
 觉得有点儿邪乎，怎么可能这么复杂。就研究了一下，确实非常简单。
 
-3个 patch （1 个 python 层，2 个 native 层）就搞定了。
+3 个 patch（1 个 python 层，2 个 native 层）就搞定了。
 
 而且其实改一行 import 也挺麻烦，本项目实现了完全无感。
 
