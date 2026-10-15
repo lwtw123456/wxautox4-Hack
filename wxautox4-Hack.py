@@ -1,4 +1,3 @@
-'''
 import os
 import sys
 import sysconfig
@@ -58,15 +57,3 @@ if __name__ == "__main__":
         
     print("破解 wxautox4 完成！")
     input("Enjoy reverse engineering!\n\nPress ENTER to exit...")
-    
-    
-'''
-
-from wxautox4 import WeChat
-
-wx = WeChat()
-
-def on_message(msg, chat):
-    print(f"收到来自 {chat} 的消息: {msg.content}")
-
-wx.AddListenChat(nickname="文件传输助手", callback=on_message)
