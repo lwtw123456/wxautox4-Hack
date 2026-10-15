@@ -6,7 +6,7 @@
 
 ## 如何使用
 
-1.正常安装wxautox4
+1.正常安装 wxautox4
 
 ```text
 pip install wxautox4
