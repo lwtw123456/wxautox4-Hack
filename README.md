@@ -20,7 +20,7 @@ pip install wxautox4
 
 其实本来不想逆向的，因为 wxautox4 实际上长期不更新，已经无法适配最新版微信，比如朋友圈接口实际上已经废了。（当然你可以用旧版微信，功能还是正常的）
 
-但是我看到 [https://github.com/cluic/wxauto](https://github.com/fastknifes/wxauto4-plus) 声称：
+但是我看到 wxauto4-plus(https://github.com/fastknifes/wxauto4-plus) 声称：
 
 ```text
 ① 导入 wxautox4 → 加载 .pyd 到内存
